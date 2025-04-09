@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! Soy Didac Cerda Falco y esto es una prueba para el trigger cuando hay modificación de código.</h2>
+<h2>Hello World! Soy Didac Cerda Falco y esto se ha ejecutado a través de una pipeline.</h2>
 </body>
 </html>
